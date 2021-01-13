@@ -1,0 +1,7 @@
+main: pl.xrediex.Main
+name: Poradnik1
+version: 1.0
+author: xRediex
+
+commands:
+  pomoc:
